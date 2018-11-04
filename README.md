@@ -1,10 +1,10 @@
 //# Basic-Calculator
 //Calculator on Java Core
 
-import java.util.Scanner;
-import java.sql.SQLOutput;
+    import java.util.Scanner;
+    import java.sql.SQLOutput;
 
-public class githubCalc {
+    public class githubCalc {
     public static void main(String[] args){
 
         System.out.println(" pick your first value ");
